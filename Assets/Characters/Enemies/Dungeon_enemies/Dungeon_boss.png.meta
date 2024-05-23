@@ -1,0 +1,1478 @@
+fileFormatVersion: 2
+guid: 3f11715cf2d382840875026efc1cb1f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon_boss_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1644
+        width: 257
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22afa7f9e2d20cb47aa1c29808e85160
+      internalID: -761560377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1642
+        width: 257
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a00787306d22c4797cff47295ee362
+      internalID: 121658893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_2
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1638
+        width: 251
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b524e02150ae1f40b09b766ea59eb38
+      internalID: -1147451473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_3
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd816e790719445b63c93a0aead73d
+      internalID: -1541692859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_4
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1630
+        width: 251
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2cc4afb5b26da499a8f21e86678349
+      internalID: -695725958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_5
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd45004a0451195448d9da77fc571b12
+      internalID: 1083716439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_6
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1630
+        width: 251
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64338bc158a14448ba7eff2a06840e
+      internalID: 1601690588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_7
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1638
+        width: 251
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f33c279a6c19944954455e8aff59fb
+      internalID: 1245150034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_8
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1642
+        width: 257
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0909d54bf2bd67499dfff311d07fc0d
+      internalID: -773357688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_9
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 1644
+        width: 257
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d37a1b9c98081469fcb9cf041869eb
+      internalID: -1270588815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1642
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2301f85cfd8e64ca4b21d05b552080
+      internalID: -2036162116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1640
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7368ab24760cf7940a159b076a704838
+      internalID: 736969802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1640
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8cfc84b2f3e344925542282cb87ca
+      internalID: -2092270609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_13
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1640
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804611105d6ced84bb96fd9ccbd325ab
+      internalID: 1114591366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_14
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1642
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8913958fa17074b820b93aa598d008
+      internalID: -2039632279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_15
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 1640
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31401b4e08ed347982490f58e25796
+      internalID: -1992084298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1638
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf464c8dd76aad418ead9e1696a2675
+      internalID: 2078873357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b1848d72792549b4f1c3befce3fe4
+      internalID: -365367762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887be2e71605f0b418219fcefbf9d8de
+      internalID: 933970651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_19
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e038419795c2b94a86b7f81d2142be3
+      internalID: -1710617591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_20
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 1636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64aa421baaa2334099aa185662b93e2
+      internalID: 153804377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_21
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 1638
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f139ee381079374bac4ed5342639253
+      internalID: -388614974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1632
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b55fe5dfc31834abe5e4f6b56779a7
+      internalID: 178497164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_23
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1632
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bb04cd73aac84190533b670415c20
+      internalID: 1024816056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_24
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1632
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7163d080ee2d58e4099380edb547f933
+      internalID: 1492233094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_25
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1632
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bde1e8a53da7147b2b785aec17a2ee
+      internalID: -1242947938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1132
+        width: 251
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a08b882037694d858442d259543ea
+      internalID: -1247466076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1135
+        width: 209
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9205e863d201c84f9b3413524e11231
+      internalID: -1966713986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_28
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282496a378b7fe34ba4adfba7f2c8b03
+      internalID: -1394426403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_29
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1131
+        width: 193
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215901033f90dc44b96efdae168f6cc3
+      internalID: -813955417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_30
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1133
+        width: 191
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a27c1095888e9949b3524adbb6dcded
+      internalID: -1840351812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_31
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1118
+        width: 229
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d16a1ece819d47b1bceff2645328a
+      internalID: -688651353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_32
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1110
+        width: 211
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14634a2c3cd9344ea3cdcaf5b76b5f4
+      internalID: 1066232941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_33
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1112
+        width: 240
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ba158768925e4782201a275d59dec
+      internalID: -1398715935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_34
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1132
+        width: 251
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a804db5d925d14690b89a708af3c51
+      internalID: -363156902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_35
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 1208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa655040c1a4d7c4fbe900360b8f2c1a
+      internalID: -1825265291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_36
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1144
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c324b7912adbc248bfb88ba0425f722
+      internalID: -1508607668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1130
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cab2d69550cb4fbfda15de846e913
+      internalID: 239245977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_38
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 1130
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c92d3536abd8a64da28188a695d015b
+      internalID: 421611314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_39
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b98f9310550a47908822a5e2203d5
+      internalID: -660634700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_40
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1114
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f0cf2a0b33424584bdf956ffb1b3b
+      internalID: 1631073850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_41
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1110
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad1d263e325e0d46b48055bb16794fc
+      internalID: -1985593896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 631
+        width: 251
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7169d35e9ed8e44181fbc5a611426b6
+      internalID: 486187219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_43
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 627
+        width: 257
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf7ba1b211839449cfb3b7ccc82e13
+      internalID: 382534377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_44
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 621
+        width: 263
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f2827743176c4c8a523f8ddbc50c5
+      internalID: 2003557333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_45
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 619
+        width: 261
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ae3a7626283846a6209788318dd9d
+      internalID: 917709162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_46
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 631
+        width: 253
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe816e5e0ccd984683cfb52d73b89b2
+      internalID: -489086432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_47
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 635
+        width: 283
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534587f1ffac9ff4c91f6436d8b78f38
+      internalID: -457062545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_48
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 635
+        width: 267
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb496e9b0394cf94a81ac4521c9013ed
+      internalID: -603928140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_49
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 631
+        width: 251
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d129a54a03089f3418cdf2b5de5cdc77
+      internalID: 1695940681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 119
+        width: 245
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f873cf2a95bdd43952a335ebfe570f
+      internalID: 1893493404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_51
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 111
+        width: 203
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa74b28e0e8300f47b700e5cc8c574e0
+      internalID: 995687941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_52
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 105
+        width: 209
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcaaef117e65b24986d177b82ada197
+      internalID: -973836615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_53
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 99
+        width: 224
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc66871ac8737e4aa066c9349a5d65e
+      internalID: -1477563363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_54
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 93
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405094b67acc6a499cb754fb1b1d1a5
+      internalID: -432139832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_55
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 91
+        width: 270
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5e2a46846abe448bc35b17735a688
+      internalID: -411889645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_56
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 79
+        width: 284
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ce12291b44d6c43baa954c29ee02d7
+      internalID: -1577051810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_57
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 316
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc43d502b2e3514b88f9e17dcbc61d0
+      internalID: -1080325363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 246
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a81746de5528454f90bdd361d780017
+      internalID: 1750092638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_59
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 47
+        width: 285
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea11b9205b59f479f78f97dbb72500
+      internalID: -1609753036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_60
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 224
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d60d39487da2439cf01466718e8dd
+      internalID: -1853116036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon_boss_61
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 170
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d20508a6d40d74ebfc37477c464205
+      internalID: -2102380184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dungeon_boss_0: -761560377
+      Dungeon_boss_1: 121658893
+      Dungeon_boss_10: -2036162116
+      Dungeon_boss_11: 736969802
+      Dungeon_boss_12: -2092270609
+      Dungeon_boss_13: 1114591366
+      Dungeon_boss_14: -2039632279
+      Dungeon_boss_15: -1992084298
+      Dungeon_boss_16: 2078873357
+      Dungeon_boss_17: -365367762
+      Dungeon_boss_18: 933970651
+      Dungeon_boss_19: -1710617591
+      Dungeon_boss_2: -1147451473
+      Dungeon_boss_20: 153804377
+      Dungeon_boss_21: -388614974
+      Dungeon_boss_22: 178497164
+      Dungeon_boss_23: 1024816056
+      Dungeon_boss_24: 1492233094
+      Dungeon_boss_25: -1242947938
+      Dungeon_boss_26: -1247466076
+      Dungeon_boss_27: -1966713986
+      Dungeon_boss_28: -1394426403
+      Dungeon_boss_29: -813955417
+      Dungeon_boss_3: -1541692859
+      Dungeon_boss_30: -1840351812
+      Dungeon_boss_31: -688651353
+      Dungeon_boss_32: 1066232941
+      Dungeon_boss_33: -1398715935
+      Dungeon_boss_34: -363156902
+      Dungeon_boss_35: -1825265291
+      Dungeon_boss_36: -1508607668
+      Dungeon_boss_37: 239245977
+      Dungeon_boss_38: 421611314
+      Dungeon_boss_39: -660634700
+      Dungeon_boss_4: -695725958
+      Dungeon_boss_40: 1631073850
+      Dungeon_boss_41: -1985593896
+      Dungeon_boss_42: 486187219
+      Dungeon_boss_43: 382534377
+      Dungeon_boss_44: 2003557333
+      Dungeon_boss_45: 917709162
+      Dungeon_boss_46: -489086432
+      Dungeon_boss_47: -457062545
+      Dungeon_boss_48: -603928140
+      Dungeon_boss_49: 1695940681
+      Dungeon_boss_5: 1083716439
+      Dungeon_boss_50: 1893493404
+      Dungeon_boss_51: 995687941
+      Dungeon_boss_52: -973836615
+      Dungeon_boss_53: -1477563363
+      Dungeon_boss_54: -432139832
+      Dungeon_boss_55: -411889645
+      Dungeon_boss_56: -1577051810
+      Dungeon_boss_57: -1080325363
+      Dungeon_boss_58: 1750092638
+      Dungeon_boss_59: -1609753036
+      Dungeon_boss_6: 1601690588
+      Dungeon_boss_60: -1853116036
+      Dungeon_boss_61: -2102380184
+      Dungeon_boss_7: 1245150034
+      Dungeon_boss_8: -773357688
+      Dungeon_boss_9: -1270588815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

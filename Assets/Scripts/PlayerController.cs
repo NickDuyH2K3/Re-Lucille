@@ -119,7 +119,6 @@ public class PlayerController : MonoBehaviour
     public void onMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
-
         if(IsAlive)
         {
             IsMoving = moveInput != Vector2.zero;

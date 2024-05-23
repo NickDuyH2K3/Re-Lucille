@@ -302,5 +302,5 @@ namespace Assets.HeroEditor.Common.Scripts.CharacterScripts
 
 			throw new Exception($"Can't find firearm params for {weaponName}.");
 		}
-	}
+    }
 }

@@ -45,27 +45,34 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
         }
 
 		private void CreateArrow()
-		{
-			var arrow = Instantiate(ArrowPrefab, FireTransform);
-			var sr = arrow.GetComponent<SpriteRenderer>();
-			var rb = arrow.GetComponent<Rigidbody>();
-			const float speed = 18.75f; // TODO: Change this!
-			
-			arrow.transform.localPosition = Vector3.zero;
-			arrow.transform.localRotation = Quaternion.identity;
-			arrow.transform.SetParent(null);
-			sr.sprite = Character.Bow.Single(j => j.name == "Arrow");
-			rb.velocity = speed * FireTransform.right * Mathf.Sign(Character.transform.lossyScale.x) * Random.Range(0.85f, 1.15f);
+        {
+            var arrow = Instantiate(ArrowPrefab, FireTransform);
+            var sr = arrow.GetComponent<SpriteRenderer>();
+            var rb = arrow.GetComponent<Rigidbody2D>();
+            const float speed = 18.75f; // TODO: Change this!
+            
+            arrow.transform.localPosition = Vector3.zero;
+            arrow.transform.localRotation = Quaternion.identity;
+            arrow.transform.SetParent(null);
+            sr.sprite = Character.Bow.Single(j => j.name == "Arrow");
 
-			var characterCollider = Character.GetComponent<Collider>();
+            // Determine the direction of the shot
+            float direction = Mathf.Sign(Character.transform.lossyScale.x);
 
-			if (characterCollider != null)
-			{
-				Physics.IgnoreCollision(arrow.GetComponent<Collider>(), characterCollider);
-			}
+            // Flip the arrow's sprite if shooting to the left
+            sr.flipX = direction < 0;
 
-			arrow.gameObject.layer = 31; // TODO: Create layer in your project and disable collision for it (in physics settings)
-			Physics.IgnoreLayerCollision(31, 31, true); // Disable collision with other projectiles.
-		}
+            rb.velocity = speed * FireTransform.right * direction * Random.Range(0.85f, 1.15f);
+
+            var characterCollider = Character.GetComponent<Collider2D>();
+
+            if (characterCollider != null)
+            {
+                Physics2D.IgnoreCollision(arrow.GetComponent<Collider2D>(), characterCollider);
+            }
+
+            arrow.gameObject.layer = 9; // TODO: Create layer in your project and disable collision for it (in physics settings)
+            Physics2D.IgnoreLayerCollision(9, 9, true); // Disable collision with other projectiles.
+        }
 	}
 }

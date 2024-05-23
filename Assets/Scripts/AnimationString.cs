@@ -18,7 +18,10 @@ internal class AnimationStrings
     internal static string hasTarget = "hasTarget";
     internal static string isAlive = "isAlive";
     internal static string lockVelocity = "lockVelocity";
-    internal static string hitTrigger = "hit";
+    internal static string hitTrigger = "Hit";
     internal static string attackCooldown = "attackCooldown";
     internal static string rangedAttackTrigger = "rangedAttack";
+
+    internal static string deathTriggerAnimation = "HeroKnight_Death";
+    internal static string respawnTriggerAnimation = "player_idle";
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Attack : MonoBehaviour
 {
-    public int attackDamage = 10;
+    public int attackDamage;
     public Vector2 knockback = Vector2.zero;
     Collider2D attackCollider;
     private void Awake()

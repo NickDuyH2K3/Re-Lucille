@@ -53,6 +53,11 @@ namespace Assets.HeroEditor.Common.Scripts.CharacterScripts
             Animator.SetTrigger("Slash");
         }
 
+        public void ChargeAttack()
+        {
+            Animator.SetTrigger("ChargeAttack2H");
+        }
+
         public void Jab()
         {
             Animator.SetTrigger("Jab");

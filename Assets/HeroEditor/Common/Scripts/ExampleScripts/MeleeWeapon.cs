@@ -1,27 +1,23 @@
 ﻿using Assets.HeroEditor.Common.Scripts.CharacterScripts;
+using Assets.HeroEditor.InventorySystem.Scripts.Data;
+using Assets.HeroEditor.InventorySystem.Scripts.Enums;
 using UnityEngine;
 
 namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
 {
-    /// <summary>
-    /// General melee weapon behaviour.
-    /// First thing you need to check is hit event. Use animation events or check user input.
-    /// Second thing is to resolve impacts to other objects (enemies, environment). Use collisions or raycasts.
-    /// </summary>
     public class MeleeWeapon : MonoBehaviour
     {
         public AnimationEvents AnimationEvents;
         public Transform Edge;
+        public LayerMask enemyLayers; // Set this in the inspector to the layers your enemies are on
+        public float attackRange = 1f; // Set this to the range of your weapon
 
-        /// <summary>
-        /// Listen animation events to determine hit moments.
-        /// </summary>
-        public void Start()
+        private void Start()
         {
             AnimationEvents.OnCustomEvent += OnAnimationEvent;
         }
 
-        public void OnDestroy()
+        private void OnDestroy()
         {
             AnimationEvents.OnCustomEvent -= OnAnimationEvent;
         }
@@ -31,10 +27,28 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
             switch (eventName)
             {
                 case "Hit":
-                    // Place hit behaviour here. For example, you could check/raycast collisons here.
+                    // Detect enemies in range of the attack
+                    Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(Edge.position, attackRange, enemyLayers);
+
+                    // Damage each enemy hit
+                    foreach (Collider2D enemy in hitEnemies)
+                    {
+                        // Calculate damage based on the properties of the equipped item
+                        enemy.GetComponent<Damageable>().Hit(15, new Vector2(0, 0));
+                        Debug.Log("We hit " + enemy.name);
+                    }
                     break;
-                default: return;
+                        default: return;
             }
+        }
+
+        // Draw the attack range in the editor
+        private void OnDrawGizmosSelected()
+        {
+            if (Edge == null)
+                return;
+
+            Gizmos.DrawWireSphere(Edge.position, attackRange);
         }
     }
 }

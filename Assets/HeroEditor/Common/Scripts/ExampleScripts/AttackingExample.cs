@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using Assets.HeroEditor.Common.Scripts.CharacterScripts;
 using Assets.HeroEditor.Common.Scripts.CharacterScripts.Firearms;
 using Assets.HeroEditor.Common.Scripts.CharacterScripts.Firearms.Enums;
@@ -10,6 +11,7 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
     /// <summary>
     /// Rotates arms and passes input events to child components like FirearmFire and BowExample.
     /// </summary>
+    
     public class AttackingExample : MonoBehaviour
     {
         public Character Character;
@@ -19,9 +21,11 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
         public Transform ArmR;
         public KeyCode FireButton;
         public KeyCode ReloadButton;
+        public KeyCode ChargeButton;
         [Header("Check to disable arm auto rotation.")]
 	    public bool FixedArm;
 
+        private bool isWaitingForSecondInput;
         public void Start()
         {
             if ((Character.WeaponType == WeaponType.Firearm1H || Character.WeaponType == WeaponType.Firearm2H) && Firearm.Params.Type == FirearmType.Unknown)
@@ -41,7 +45,20 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
                 case WeaponType.MeleePaired:
                     if (Input.GetKeyDown(FireButton))
                     {
-                        Character.Slash();
+                        if (isWaitingForSecondInput)
+                        {
+                            Character.Jab();
+                            isWaitingForSecondInput = false;
+                        }
+                        else
+                        {
+                            Character.Slash();
+                            StartCoroutine(WaitForSecondInput());
+                        }
+                    }
+                    else if (Input.GetKeyDown(ChargeButton))
+                    {
+                        Character.ChargeAttack();
                     }
                     break;
                 case WeaponType.Bow:
@@ -63,7 +80,7 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
 		            break;
 			}
 
-            if (Input.GetKeyDown(FireButton))
+            if (Input.GetKeyDown(FireButton)|| Input.GetKeyDown(ChargeButton))
             {
                 Character.GetReady();
             }
@@ -153,6 +170,12 @@ namespace Assets.HeroEditor.Common.Scripts.ExampleScripts
             while (angle < -180) angle += 360;
 
             return angle;
+        }
+        private IEnumerator WaitForSecondInput()
+        {
+            isWaitingForSecondInput = true;
+            yield return new WaitForSeconds(1f); // Wait for 0.5 seconds
+            isWaitingForSecondInput = false;
         }
     }
 }

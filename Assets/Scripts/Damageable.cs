@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.Timeline;
@@ -91,8 +92,6 @@ public class Damageable : MonoBehaviour
 
             timeSinceHit += Time.deltaTime;
         }
-        Debug.Log(timeSinceHit);
-        Debug.Log(isInvincible);
     }
 
 
@@ -130,4 +129,15 @@ public class Damageable : MonoBehaviour
         return false;
     }
 
+    public void Respawn()
+    {
+        if(!IsAlive)
+        {
+            animator.SetBool(AnimationStrings.isAlive, true);
+            Health = MaxHealth;
+            animator.ResetTrigger(AnimationStrings.deathTriggerAnimation);
+            animator.Play(AnimationStrings.respawnTriggerAnimation);
+            isInvincible = true;
+        }
+    }
 }

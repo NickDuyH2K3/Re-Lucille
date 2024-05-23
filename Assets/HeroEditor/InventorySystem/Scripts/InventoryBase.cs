@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Assets.HeroEditor.Common.Scripts.Common;
+using Assets.HeroEditor.Common.Scripts.ExampleScripts;
 using Assets.HeroEditor.InventorySystem.Scripts.Data;
 using Assets.HeroEditor.InventorySystem.Scripts.Elements;
 using Assets.HeroEditor.InventorySystem.Scripts.Enums;

@@ -1,0 +1,1501 @@
+fileFormatVersion: 2
+guid: 7eff822b68792a94cac9b19dd8fb5029
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: village_props1_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 814
+        width: 158
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520d319d9a3cd74b8980799814c106a
+      internalID: 1155441838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_3
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 819
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6e85f7bdd61542bed7a9ddfd18a28
+      internalID: 1059315587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_4
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 819
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e043d565ecbd458b5d0566bcbd1cf
+      internalID: -1797103849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_5
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 823
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe86e0960977af4a8137374a516b71f
+      internalID: -1379663137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 700
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f913481cb25ce3044930306e96d80a08
+      internalID: 1079359797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 696
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11ef5cd6aa094448aa8a427bba3ffc4
+      internalID: -834519164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_9
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 703
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827159942210fac4da3d3fe6bd9706fe
+      internalID: -1684629992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_10
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 698
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f56557271d49b4981740b492c0a4d8
+      internalID: 312873073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 471
+        width: 189
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b93ec4ecb57b45b5c9fd524b5a72a
+      internalID: -973857775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_12
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 572
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc8366030df644fb4ca152d8428563
+      internalID: -7103451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 571
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c2702da57d6c4419eee0832dce6da5
+      internalID: -264057172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_14
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 569
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6fdebb6aa8e234dad55a4960c6a730
+      internalID: 1701583307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 258
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2ba9eadc72b0489ccb25702deed7b
+      internalID: 71995102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_17
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 271
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e5fe25cfa4be44cbb286e07578894a
+      internalID: -1279677128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_19
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 277
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6be5cd47bc8e34783ce85195bf40e0
+      internalID: 1022506797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 269
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec60b19b55a034e9d8cb27389f15aa
+      internalID: -1373582323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_22
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 272
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d82fec2fb65a44fa917ca2d3f4271d
+      internalID: 1341859703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 272
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92970a29c0963b04ebb313bb08d6ec44
+      internalID: 322544575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_24
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 269
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff919b28bf539e4c928c223c9a5c2ed
+      internalID: -1265522513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 73
+        width: 88
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb1a0e6f68d3974ba6b9f806783aa93
+      internalID: 920693266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_28
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 72
+        width: 85
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7431a867e3aedb14eacb692d55cf86f8
+      internalID: -189858474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 625
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c7974bffa9154e875d382d006a276
+      internalID: -1117237995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_35
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 623
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110920d71b253141971f7acd3934bcd
+      internalID: 1191105536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 593
+        width: 175
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e5295d877fa2449bd99290e6697fe
+      internalID: 1686661840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 472
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8207cc2f56a58f4cba68c3e6b22adb8
+      internalID: -2137212829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 471
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98ec14628078334890ffc70cfd7ce99
+      internalID: 1310092413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 355
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a949302df0ab77468da6259457495b5
+      internalID: 244301002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 357
+        width: 188
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1081ab1c3b0d00f4eace6188634f39c0
+      internalID: -1615387682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 353
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff02b79fe40b445b2fbae7da2dac59
+      internalID: -363563859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_42
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 824
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd6807d5037364f9b4f96e4e8efe71
+      internalID: 1520063037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 596
+        width: 233
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc26288393a21418548958b5cb8a3b
+      internalID: -1620716368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_43
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 631
+        width: 232
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b321f68f048aae049bbe5ddbc4760a16
+      internalID: -1691157554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 695
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdae5970611bad44816d5d13215f59a
+      internalID: -242873119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_45
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 695
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a678bc03054464a84a6700829ad922
+      internalID: -2099800879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 796
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d60b6e56451e4cad1a939d916ce46
+      internalID: 812993888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_47
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 795
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df485fff85afd064da804cef7ebf1db0
+      internalID: 1306654535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 724
+        width: 37
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362e88078a60cd41a61866e5365dd7f
+      internalID: 244694143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 723
+        width: 169
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5fb87d135a8ae40bd744d29e8fce6e
+      internalID: 1713101766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_48
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 721
+        width: 31
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69dce175a08c6a468c90a3e932a35e3
+      internalID: 1165489822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_49
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 608
+        width: 32
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf69ab8ff6ecf4399892cd4d4e51d5
+      internalID: -1599595860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_50
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 610
+        width: 171
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c35a76864469e43a60434be4e7e61b
+      internalID: -1222376507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 609
+        width: 34
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67bd77d8ce714143b2d1cc75bc4ea2b
+      internalID: -1446076263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_52
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 353
+        width: 33
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed1763396d0ab4393cfcefca0b6883
+      internalID: 477696395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_53
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 353
+        width: 172
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49714d57c20d9d4e9c47da04f5759b0
+      internalID: 459519254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_54
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 356
+        width: 36
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647fdf317e53864ebb97be5359d2d61
+      internalID: -748518753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_55
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 540
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6c3844902665439d221d8fe30d8af
+      internalID: 61225570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_56
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 544
+        width: 171
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1c281eee8db446b4fe8f8e8802f0c
+      internalID: 832317685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_57
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 540
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab5a1582f43f9459031b053f4422dd
+      internalID: 1850781474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 72
+        width: 78
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea29517c7f8d3418abceedf590e78d
+      internalID: -1185144388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 75
+        width: 80
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10689118b85fba24cb825a8c353cd94d
+      internalID: 1539337497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 72
+        width: 128
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df91addf0b85e7641a10f10fe61bae11
+      internalID: -530446326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 73
+        width: 138
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e058be7f9b6e49842b095961c1c14
+      internalID: 2022719114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_31
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 73
+        width: 131
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ff66215f11ca498fa02bf923c10b5
+      internalID: 636297919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_32
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 73
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b8a9bb229b854b88da632e94ce069
+      internalID: -458643459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_18
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 265
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779b7862a97d3f4fa483aa08516666b
+      internalID: 1764195334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 602
+        width: 20
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a459f0153a53ad549b2a1603d1e10601
+      internalID: 1141332185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 794
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3dc41708377d0419ea2bb024b89aa9
+      internalID: 1078174432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 828
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf950da406a6a6f4da9d78d66150211a
+      internalID: -514689717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 865
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073d61b61186c2944b5473399bd983be
+      internalID: -1704154244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_60
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 461
+        width: 182
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960498e2a77fea409bd66c05ba1e0b5
+      internalID: -147003737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_61
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 464
+        width: 182
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ff2143870e544428b059f508c7650d
+      internalID: 89239392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_62
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 361
+        width: 182
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6ddb13bf421094fb6a28be1267d6ba
+      internalID: 1172221508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: village_props1_63
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 362
+        width: 181
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9528de3e09b194f8d6053ed5edea19
+      internalID: 120923871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      village_props1_0: 1155441838
+      village_props1_1: -1620716368
+      village_props1_10: 312873073
+      village_props1_11: -973857775
+      village_props1_12: -7103451
+      village_props1_13: -264057172
+      village_props1_14: 1701583307
+      village_props1_15: 71995102
+      village_props1_16: -1185144388
+      village_props1_17: -1279677128
+      village_props1_18: 1764195334
+      village_props1_19: 1022506797
+      village_props1_2: 244694143
+      village_props1_20: 1031909414
+      village_props1_21: -1373582323
+      village_props1_22: 1341859703
+      village_props1_23: 322544575
+      village_props1_24: -1265522513
+      village_props1_25: 1141332185
+      village_props1_26: 920693266
+      village_props1_27: 1539337497
+      village_props1_28: -189858474
+      village_props1_29: -530446326
+      village_props1_3: 1059315587
+      village_props1_30: 2022719114
+      village_props1_31: 636297919
+      village_props1_32: -458643459
+      village_props1_33: 1078174432
+      village_props1_34: -1117237995
+      village_props1_35: 1191105536
+      village_props1_36: 1686661840
+      village_props1_37: -2137212829
+      village_props1_38: 1310092413
+      village_props1_39: 244301002
+      village_props1_4: -1797103849
+      village_props1_40: -1615387682
+      village_props1_41: -363563859
+      village_props1_42: 1520063037
+      village_props1_43: -1691157554
+      village_props1_44: -242873119
+      village_props1_45: -2099800879
+      village_props1_46: 812993888
+      village_props1_47: 1306654535
+      village_props1_48: 1165489822
+      village_props1_49: -1599595860
+      village_props1_5: -1379663137
+      village_props1_50: -1222376507
+      village_props1_51: -1446076263
+      village_props1_52: 477696395
+      village_props1_53: 459519254
+      village_props1_54: -748518753
+      village_props1_55: 61225570
+      village_props1_56: 832317685
+      village_props1_57: 1850781474
+      village_props1_58: 571921092
+      village_props1_59: -514689717
+      village_props1_6: 1713101766
+      village_props1_60: -147003737
+      village_props1_61: 89239392
+      village_props1_62: 1172221508
+      village_props1_63: 120923871
+      village_props1_7: 1079359797
+      village_props1_8: -834519164
+      village_props1_9: -1684629992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

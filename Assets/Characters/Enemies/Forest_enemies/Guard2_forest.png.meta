@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 589f49e8c2cf99e4991cf55ba49c1ea2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guard2_forest_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1637
+        width: 180
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810a11181590ab48b54b0f7834130ab
+      internalID: -1048622641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_1
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1643
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6128bb1310e2dd4b9cbc897c904c732
+      internalID: -1760529522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1655
+        width: 166
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89cbf3711d61114e8a551af46d3c4ed
+      internalID: -1819439952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_3
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1657
+        width: 162
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af48a5467083ded4db2dcfc5739c2637
+      internalID: 1628393131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_4
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1659
+        width: 162
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60c130116ea68458627c742d7a136b
+      internalID: -1285907435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_5
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1655
+        width: 166
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c1d2fbd37d1540a26b1ca4dccc11b
+      internalID: -1517108144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_6
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1643
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c69f9915945b49bf278fe1fcfc63b
+      internalID: -2139015644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_7
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1637
+        width: 180
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22cc3487de45a44cb338e4db5833408
+      internalID: -482135514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1145
+        width: 168
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c7020467f2cb43a4efd3758ff2948
+      internalID: 2034531066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1145
+        width: 170
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591bfab1821f04d409129af26aadecbb
+      internalID: 2076440919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1145
+        width: 170
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00906cc691f13234cb90b3390b9de882
+      internalID: 2106888469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_11
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1145
+        width: 228
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0a2cb9187625468ae8e8604fd2d57
+      internalID: 803710182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_12
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1145
+        width: 146
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c992e0208bac48a1ded74e9670fd7
+      internalID: 537995568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_13
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 1097
+        width: 184
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138efeb5a5b30514e95b44b87db44e72
+      internalID: -1835105162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_14
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1099
+        width: 174
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e02097704b2ae47962eaa7c6853a90
+      internalID: -1198550012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_15
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 1145
+        width: 168
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535bb4d71b4d7045b90f85aaf8a844d
+      internalID: -694864201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 633
+        width: 168
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb386b596a5a746bdeab8308364f3a
+      internalID: -1709572840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 633
+        width: 170
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629636e829b90804290c66f2f3bc595e
+      internalID: 426887033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_18
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 633
+        width: 174
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791028832215a5f41911f8ca9edb70aa
+      internalID: -50216707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_19
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 633
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1dd0005e4cef94b9436e4e6fd62c0d
+      internalID: -1128670042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_20
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 633
+        width: 190
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ab4e889ee23af46bea87be8949e8e4
+      internalID: 1545703046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_21
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 633
+        width: 212
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8fc92654d88845bfd8de87c9eb415
+      internalID: -1217052821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_22
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 633
+        width: 194
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172b5423016e8447b27f4da2b5ceb6a
+      internalID: 615410120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_23
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 633
+        width: 168
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de1d115a183024d87a45b11c8ff0ad
+      internalID: 1510840624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 178
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c4897b56d77347a5bdadb6fd2301c
+      internalID: 1188819846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 119
+        width: 146
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f64a627f029e45b9492b9e13539f1
+      internalID: 545516885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_26
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 117
+        width: 160
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de3363753cef7047a04d98c3136ae11
+      internalID: 794809220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_27
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 118
+        width: 184
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c29c1347c94b48844413000ed863b
+      internalID: 2030475148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_28
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 123
+        width: 200
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905bff778af52624aaa06f576b809547
+      internalID: 343172673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_29
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 125
+        width: 230
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27226e108e753148a8740357160a0f6
+      internalID: 1041833961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_30
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 119
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2bcf2bc267d00468473f9bbe2cbeb3
+      internalID: 71540768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guard2_forest_31
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 81
+        width: 288
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229db1c990283d4ea4f90f8178f7118
+      internalID: 8601586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Guard2_forest_0: -1048622641
+      Guard2_forest_1: -1760529522
+      Guard2_forest_10: 2106888469
+      Guard2_forest_11: 803710182
+      Guard2_forest_12: 537995568
+      Guard2_forest_13: -1835105162
+      Guard2_forest_14: -1198550012
+      Guard2_forest_15: -694864201
+      Guard2_forest_16: -1709572840
+      Guard2_forest_17: 426887033
+      Guard2_forest_18: -50216707
+      Guard2_forest_19: -1128670042
+      Guard2_forest_2: -1819439952
+      Guard2_forest_20: 1545703046
+      Guard2_forest_21: -1217052821
+      Guard2_forest_22: 615410120
+      Guard2_forest_23: 1510840624
+      Guard2_forest_24: 1188819846
+      Guard2_forest_25: 545516885
+      Guard2_forest_26: 794809220
+      Guard2_forest_27: 2030475148
+      Guard2_forest_28: 343172673
+      Guard2_forest_29: 1041833961
+      Guard2_forest_3: 1628393131
+      Guard2_forest_30: 71540768
+      Guard2_forest_31: 8601586
+      Guard2_forest_4: -1285907435
+      Guard2_forest_5: -1517108144
+      Guard2_forest_6: -2139015644
+      Guard2_forest_7: -482135514
+      Guard2_forest_8: 2034531066
+      Guard2_forest_9: 2076440919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

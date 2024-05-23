@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b9b21a391f5cb3d4fb66b27f3e61b3f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButcherB_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2256
+        width: 632
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6686f9c4b3ae2845b8f383c9ceacfc6
+      internalID: -1044889168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2256
+        width: 629
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c98ab70ded5e40b559e6ea5fb3dc5
+      internalID: 1703824198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_2
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 2256
+        width: 621
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4f85eda97ec84aa9dc110b911cdb1
+      internalID: -2116991373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_3
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2256
+        width: 617
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f055fd30d1954fb0730bbed3135ef
+      internalID: 1489315907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_4
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 2256
+        width: 613
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417aa10efc8cca4a8af71b68b3fa45c
+      internalID: -1195892203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_5
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 2256
+        width: 617
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01fb88385ff1f4479451fbffb755efa
+      internalID: 2038761906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_6
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 2256
+        width: 621
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c956cf422576428c8a29c95e23357
+      internalID: -787663915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_7
+      rect:
+        serializedVersion: 2
+        x: 6738
+        y: 2256
+        width: 629
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c73ddbe929d18c4d9521048b4ec7ad2
+      internalID: -1531072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1524
+        width: 586
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1654fb8272d7c340adf82226dd1d5fb
+      internalID: 1438463800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1531
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5095f6f7145d40bd50c125a418168
+      internalID: 944265643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1528
+        width: 624
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44c6c2351feff4387ec2872fb389cd
+      internalID: 1224806042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_11
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1524
+        width: 646
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28cd912d61a7d499141d7655a49378
+      internalID: -1928734365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_12
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 1524
+        width: 658
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbfbd9bd9d21ae429484f5b66bd6601
+      internalID: -1213165802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_13
+      rect:
+        serializedVersion: 2
+        x: 4841
+        y: 1528
+        width: 645
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7defe002cbe044e9f234d75e458a65
+      internalID: 1061100656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_14
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 1528
+        width: 620
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fd2e15347739045a71c3c1d8fa9321
+      internalID: 869193000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_15
+      rect:
+        serializedVersion: 2
+        x: 6753
+        y: 1528
+        width: 602
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db1afd1481bcb478a0c0a865b227d5
+      internalID: -1581536034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 800
+        width: 503
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2650b6195fd7f449a6c1745da806018
+      internalID: 629048262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_3
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 804
+        width: 454
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46fd3ce212f10546a44f2fdf366dc98
+      internalID: -1737953919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_4
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 804
+        width: 517
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923826fe67ccb440b56ad5e01469da1
+      internalID: -225638264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_5
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 804
+        width: 551
+        height: 535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec3bbdef60cfc418409bb41d77f435
+      internalID: 602523811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_20
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 1334
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd25b919c43fc6c40a552e5e8c1600aa
+      internalID: 1557959651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_6
+      rect:
+        serializedVersion: 2
+        x: 5109
+        y: 804
+        width: 561
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9977ab0273adde47a7f678260508320
+      internalID: 1090718608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 804
+        width: 632
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5588760482adb78449b66113bba5161d
+      internalID: 296864966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_23
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 1175
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372e4018edb5f34da0c45f69a6c0202
+      internalID: 574914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_7
+      rect:
+        serializedVersion: 2
+        x: 5676
+        y: 818
+        width: 756
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c303f9fe06ef6b4087cfcaaf0144a5d
+      internalID: -316036100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_Slash_8
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 770
+        width: 680
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91965f9897f92f548b6758d1e74a4672
+      internalID: 1625668058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 631
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447db3c3c96f9b45afc13afa7f69fbe
+      internalID: -475027187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_27
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 76
+        width: 654
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b76f8681c8f4344bf1cc528a30b3d8
+      internalID: 652450785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_28
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 76
+        width: 639
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4723af9524b6094fbdcaed883ae4d18
+      internalID: -2086350708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_29
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 76
+        width: 524
+        height: 646
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b295e6620544726499f50717217c050f
+      internalID: 1842853104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_30
+      rect:
+        serializedVersion: 2
+        x: 4150
+        y: 521
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58e2b1665a7fa498e66d7415d9d885
+      internalID: -22429293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_31
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 72
+        width: 443
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c543b4062b4ed048bddd9e08804bf86
+      internalID: -169883540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_32
+      rect:
+        serializedVersion: 2
+        x: 5009
+        y: 20
+        width: 576
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7941425e80ad7444ea6095a7022042b2
+      internalID: 1195087733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_33
+      rect:
+        serializedVersion: 2
+        x: 5918
+        y: 0
+        width: 661
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5380cb931af7c74a93b2a9a395e3e71
+      internalID: -479148159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButcherB_34
+      rect:
+        serializedVersion: 2
+        x: 6886
+        y: 13
+        width: 632
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665533d040210346a8cf3003da40630
+      internalID: 2120458405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ButcherB_0: -1044889168
+      ButcherB_1: 1703824198
+      ButcherB_10: 1224806042
+      ButcherB_11: -1928734365
+      ButcherB_12: -1213165802
+      ButcherB_13: 1061100656
+      ButcherB_14: 869193000
+      ButcherB_15: -1581536034
+      ButcherB_2: -2116991373
+      ButcherB_20: 1557959651
+      ButcherB_23: 574914708
+      ButcherB_26: -475027187
+      ButcherB_27: 652450785
+      ButcherB_28: -2086350708
+      ButcherB_29: 1842853104
+      ButcherB_3: 1489315907
+      ButcherB_30: -22429293
+      ButcherB_31: -169883540
+      ButcherB_32: 1195087733
+      ButcherB_33: -479148159
+      ButcherB_34: 2120458405
+      ButcherB_4: -1195892203
+      ButcherB_5: 2038761906
+      ButcherB_6: -787663915
+      ButcherB_7: -1531072631
+      ButcherB_8: 1438463800
+      ButcherB_9: 944265643
+      ButcherB_Slash_1: 296864966
+      ButcherB_Slash_2: 629048262
+      ButcherB_Slash_3: -1737953919
+      ButcherB_Slash_4: -225638264
+      ButcherB_Slash_5: 602523811
+      ButcherB_Slash_6: 1090718608
+      ButcherB_Slash_7: -316036100
+      ButcherB_Slash_8: 1625668058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

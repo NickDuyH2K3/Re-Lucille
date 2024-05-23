@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 24661f0eb237bf54d89af10340bbb0fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wiz01_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2629
+        width: 233
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2582c00783d97a41b7b1687655a4034
+      internalID: -904657504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2629
+        width: 233
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736d0afa64dac74ba4192c2caff1da4
+      internalID: 934677178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2627
+        width: 233
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad25ac8931fe0e4596fabbbaf0f7eb2
+      internalID: 1218720923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_3
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2625
+        width: 232
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43b4a581d5bc2e42aa8bd7e12817f21
+      internalID: -1972467344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_4
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2621
+        width: 227
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b8b6ec2b23d364bba70bf6a6639de1
+      internalID: 1105017416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_5
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2619
+        width: 226
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ada10c7d02a8429af515c3bcd53ce
+      internalID: 807418648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_6
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2617
+        width: 223
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11741e6211e525409022866bf946a4e
+      internalID: -1947628542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_7
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 2615
+        width: 223
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf79c53ee05e54d8e05fe46865fb3c
+      internalID: -799554440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2116
+        width: 233
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1404d7472954d743a0aa9dc47aaec31
+      internalID: -719743569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2115
+        width: 234
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30abdbfd39ca2934ca85425f378a6a98
+      internalID: -56863205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_10
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2113
+        width: 231
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff7431b91025fc42a569e8603a85244
+      internalID: -374871213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_11
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2111
+        width: 230
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c986ea81e08d242969ad41561ee7c0
+      internalID: -1401933911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_12
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2107
+        width: 225
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866380669055bc419837fb8fda03d85
+      internalID: 946337857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_13
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2105
+        width: 224
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec42b0a0c2f7aa49ac84645381ba7c7
+      internalID: 1484706753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_14
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2103
+        width: 221
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945443da5ffdb84e8c0161e6ceb0a72
+      internalID: 2016715252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_15
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2103
+        width: 219
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501a4cb6b96ca948875c7885b5560d9
+      internalID: -1654682513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1598
+        width: 220
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa793f63180ffbf458dac615c1a88172
+      internalID: -535806353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1598
+        width: 218
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f0bb163183e68409efad03867797ae
+      internalID: -2045001551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1596
+        width: 216
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982a0644a1cefd4f89361d88a51e02c
+      internalID: -1227951759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_19
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1596
+        width: 215
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527962ea37ccf8e40a46fe9ad7d40dcf
+      internalID: -1528479553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_20
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1592
+        width: 210
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f360781676ca44ebb0cee35f571863
+      internalID: 1127536313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_21
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1590
+        width: 209
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aee0ae0d844bb4b83cddb4aacc95dd
+      internalID: 465647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_22
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 1588
+        width: 208
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fb882f981683418f2465e8bbc85a2
+      internalID: 1720135387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_23
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 1586
+        width: 208
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829da4c033d6a9946a8e815d90fbd254
+      internalID: -565548404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1108
+        width: 245
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012218d625e48534cafb20bb5cf33680
+      internalID: 849603195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1146
+        width: 251
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dc96ae51ac48545b586b021e7ffb64
+      internalID: -1719615663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1146
+        width: 237
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036158340c72de47a3c808df7c5a13f
+      internalID: 610357805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_27
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1146
+        width: 188
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221cd5632d161542b405dfaaa8a46a5
+      internalID: -1511346080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_28
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1146
+        width: 232
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045f323ead571b5448107eec205232bc
+      internalID: 416215644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_29
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1146
+        width: 277
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02862aa226b44b46bda78d0047eb8ca
+      internalID: -1300210509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_30
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1146
+        width: 292
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24076d89a43aa47a96d1cf7cebff05
+      internalID: -1835605574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_31
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1317
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f3190601b64245b9d3f0167b305c8
+      internalID: 1298461961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_32
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 1146
+        width: 286
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b539bb05d0d3d4db53ee2323646c40
+      internalID: -1312138004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 597
+        width: 245
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481c2aac7f7be174daa6309a945259e5
+      internalID: -1333954421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_34
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 599
+        width: 246
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922eb1cf564e4347a0a2654bf3ae2d9
+      internalID: -2083303999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_35
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 599
+        width: 245
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cc3d991a5bf546a5d283e9d8c15c2
+      internalID: 1382759213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_36
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 599
+        width: 246
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a79c4e9b7096e43931ab70fabde838
+      internalID: 490242684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_37
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 601
+        width: 243
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f9de3db7bacae42bb040666ede181a
+      internalID: -1328619943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_38
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 603
+        width: 245
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbcf8cefc49bd489286b4721ec06ca
+      internalID: 279930740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_39
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 605
+        width: 246
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d88742013c1714080700a5b55aa3e0
+      internalID: -1336246402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_40
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 609
+        width: 248
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4db818ac925a94e87bd433099b1da1
+      internalID: -772811651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 120
+        width: 245
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65556565c51c045958ebc46b5319b3
+      internalID: -207668383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_42
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 120
+        width: 232
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a686e5871d0cf494697293e5cb3eb962
+      internalID: -1258218447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_43
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 118
+        width: 190
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cc45f9b14633d409ec129e98ccf486
+      internalID: 1574208090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_44
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 118
+        width: 184
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a78aadeb15a2145b68adc0dbf1be94
+      internalID: -1313001976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_45
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 116
+        width: 182
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec748c1097fa5a645972d1cbb31ae68f
+      internalID: -1639477275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_46
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 116
+        width: 182
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bfb0d995a93bc4094f8be511aedd42
+      internalID: -697398775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_47
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 116
+        width: 194
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2bbf7cb4ad1f4383a217b7cccb14e
+      internalID: -897251078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wiz01_48
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 116
+        width: 204
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e00f577af269449dc8eef06c7a640
+      internalID: 539209764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wiz01_0: -904657504
+      wiz01_1: 934677178
+      wiz01_10: -374871213
+      wiz01_11: -1401933911
+      wiz01_12: 946337857
+      wiz01_13: 1484706753
+      wiz01_14: 2016715252
+      wiz01_15: -1654682513
+      wiz01_16: -535806353
+      wiz01_17: -2045001551
+      wiz01_18: -1227951759
+      wiz01_19: -1528479553
+      wiz01_2: 1218720923
+      wiz01_20: 1127536313
+      wiz01_21: 465647805
+      wiz01_22: 1720135387
+      wiz01_23: -565548404
+      wiz01_24: 849603195
+      wiz01_25: -1719615663
+      wiz01_26: 610357805
+      wiz01_27: -1511346080
+      wiz01_28: 416215644
+      wiz01_29: -1300210509
+      wiz01_3: -1972467344
+      wiz01_30: -1835605574
+      wiz01_31: 1298461961
+      wiz01_32: -1312138004
+      wiz01_33: -1333954421
+      wiz01_34: -2083303999
+      wiz01_35: 1382759213
+      wiz01_36: 490242684
+      wiz01_37: -1328619943
+      wiz01_38: 279930740
+      wiz01_39: -1336246402
+      wiz01_4: 1105017416
+      wiz01_40: -772811651
+      wiz01_41: -207668383
+      wiz01_42: -1258218447
+      wiz01_43: 1574208090
+      wiz01_44: -1313001976
+      wiz01_45: -1639477275
+      wiz01_46: -697398775
+      wiz01_47: -897251078
+      wiz01_48: 539209764
+      wiz01_5: 807418648
+      wiz01_6: -1947628542
+      wiz01_7: -799554440
+      wiz01_8: -719743569
+      wiz01_9: -56863205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1522 @@
+fileFormatVersion: 2
+guid: 149fb5d524aff5e488455296153f6945
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DreadEye_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 697
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400c38aee318a541b9e8fbd13edf721
+      internalID: -1957587351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 699
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a9aedb5a47f148a18a1db0982684f
+      internalID: -943295990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 701
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217caacf09c8604e980b5ad17a41d5d
+      internalID: 119581473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 705
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b5db77910f0047bd020d552b8fb41
+      internalID: -1729078597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 671
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b18abf843d96a428070ebf79fb1411
+      internalID: 1375586468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_5
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 673
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72776f1db39a6554ab8c41142c0670c4
+      internalID: -1957371792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_6
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 675
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af45be61c7bb17428764f763db128c2
+      internalID: 1243899120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_7
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 677
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0033ed6229a6cf349a3ed2bfa3f0bc18
+      internalID: 842049885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_8
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 714
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83e96f79210f949ab0542e81b9c75a
+      internalID: -1088157196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_9
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 714
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5a1bcf76cd1c45ac2117313160972
+      internalID: -638407052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_10
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 712
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bdd9908ec6c5d48b8fe3dbc7bdd718
+      internalID: 1328323106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_11
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 708
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a07fe542e42041a05f9a9c9bcf4d2
+      internalID: -1573946725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_12
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 668
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e5c859c9c1eb4baa195192e492c4b
+      internalID: -9108035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_13
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 666
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603dd71cab6f0f448ff905db0dc5f17
+      internalID: -954667380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_14
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 662
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd85b5da4253aa44806496a577f8d16
+      internalID: -1554788344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_15
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 661
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90421c6d4c1d00248b059dfebe6ea90f
+      internalID: 1367162090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 488
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee507bc8e1ff844a4e34c8980ba4d5
+      internalID: -827737156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 488
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79cec318aaf1447905eece13e5af46
+      internalID: -1066132644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_18
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 490
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579cff6cd7ce0a41a9e908f4bc978db
+      internalID: 31843953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 466
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ef32b2e3f18f844b976a5802e2a02e
+      internalID: 2009694282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_20
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 469
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4e2244f74c1c44aa16d0d1854c133
+      internalID: -2127702719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_21
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 473
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55a7042bbad8347a2f8f3b8cf1cde2
+      internalID: -1089196568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_22
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 503
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d3b1e443faf843881b2a0706bb878
+      internalID: -1196690214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_23
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 504
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dda9d17e9789048bcf267f63fe0ef9
+      internalID: 1474535076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_24
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 479
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799781ac715e6d648ac45c28c7895cc3
+      internalID: 1830636840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_25
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 477
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5f58d4539337d4c9413147c77dbcfe
+      internalID: -1757514514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_26
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 475
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248986622286f7849a99dad9d3ab4b42
+      internalID: 500663616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_27
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 499
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6c4737415ef1640ac434830c642d51
+      internalID: 764650484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_28
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 496
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc54dc3e4e588f419476b1d7f0acd1f
+      internalID: 309941133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_29
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 493
+        width: 95
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a48a16aa6def4ea784d1d8d9d1f12
+      internalID: -462019924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_30
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 464
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2977cba5ccbe54d9ecede66839eea1
+      internalID: -1738151618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_31
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 462
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4171f13714bc1a54daae6e0dd07ccfdd
+      internalID: -526240847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 280
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f7bc84872a5c34590e95d5dec1e36b
+      internalID: 1843641951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 282
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8554722552cf4af4b8743f1cca19f9af
+      internalID: 65745830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_34
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 286
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ac362cf19151844be34ea38d358db2
+      internalID: 2103343764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 251
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15412b2176ec7149a6b26207bb6c993
+      internalID: -2043797593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_36
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 255
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2049933d89d4f4aaedf0ab8aa3faf4
+      internalID: 1534850556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_37
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 260
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d5631eac8c144a9602fd4c9e08ddc
+      internalID: 1898559580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_38
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 311
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c250bda4ec1d74cbacbcb51682e84f
+      internalID: -1061631523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_39
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 315
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99153747a5baa4986a0ce505db028a
+      internalID: 1454759844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_40
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 269
+        width: 80
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b7e20ac9afea4587e070a339a7a78
+      internalID: -993235485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_41
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 258
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc2d2086bb0d24ba07bac32a432ecb
+      internalID: 1895599229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_42
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 243
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7ce1ed8068f0418c0303fc9114576
+      internalID: 630799827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_43
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 286
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978c9e02c4dfe1f46a83b0746653e358
+      internalID: 1571018417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_44
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 284
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad12a87e20a23594cbd46f7e117383ea
+      internalID: 1049676909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_45
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 282
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c95578e891dc4193fc339b6fa5970
+      internalID: -1100167853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_46
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 236
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00af145808457d45bb75f3ee1fb3c1d
+      internalID: -435717917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_47
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 241
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd09533dd402f4191e5bd65ecea805
+      internalID: -425247958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 71
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c56b66343eca468523863325b2e8e
+      internalID: -1966961330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 74
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18704248dc9c5084d843f08f06db56cb
+      internalID: -1209723127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 83
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398dcc477258ad48b79ab1503b70850
+      internalID: -1809043435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_51
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 93
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0612f28deebe9479c0073eff471028
+      internalID: 861535416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_52
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 102
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c14c8d712cd654486a64bd820814d6
+      internalID: 2140751068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_53
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 68
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b726b41e00f99c4c9bfc6340bea643e
+      internalID: 577286200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_54
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 62
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d157a32d30b479347a225c65820aa893
+      internalID: 319465401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_55
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 49
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3129745c76d37429e8e28772b58932
+      internalID: 130196977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_56
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 34
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44389f6909a384297eb40ce1583bdc
+      internalID: 986428124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_57
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 25
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc691b6c140676d439af349c9bf994ed
+      internalID: -487053349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_58
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 14
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ebc39e944a4a409d4248180c4d686
+      internalID: 624131198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_59
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 14
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05dbe3acc28b2419d9952244aaefdc
+      internalID: 1503666392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_60
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 19
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ccda5dd126c9e49835a944bb429bc6
+      internalID: 1411265582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_61
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 12
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5239dd166383bf64b8f22fe039a001af
+      internalID: 256109427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_62
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 1
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35827dcb23ed80f48b54b45a6e582a4c
+      internalID: -1759587645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DreadEye_63
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 0
+        width: 99
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863266a60b1ee34c9e06e8f6bd34318
+      internalID: 1018379456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DreadEye_0: -1957587351
+      DreadEye_1: -943295990
+      DreadEye_10: 1328323106
+      DreadEye_11: -1573946725
+      DreadEye_12: -9108035
+      DreadEye_13: -954667380
+      DreadEye_14: -1554788344
+      DreadEye_15: 1367162090
+      DreadEye_16: -827737156
+      DreadEye_17: -1066132644
+      DreadEye_18: 31843953
+      DreadEye_19: 2009694282
+      DreadEye_2: 119581473
+      DreadEye_20: -2127702719
+      DreadEye_21: -1089196568
+      DreadEye_22: -1196690214
+      DreadEye_23: 1474535076
+      DreadEye_24: 1830636840
+      DreadEye_25: -1757514514
+      DreadEye_26: 500663616
+      DreadEye_27: 764650484
+      DreadEye_28: 309941133
+      DreadEye_29: -462019924
+      DreadEye_3: -1729078597
+      DreadEye_30: -1738151618
+      DreadEye_31: -526240847
+      DreadEye_32: 1843641951
+      DreadEye_33: 65745830
+      DreadEye_34: 2103343764
+      DreadEye_35: -2043797593
+      DreadEye_36: 1534850556
+      DreadEye_37: 1898559580
+      DreadEye_38: -1061631523
+      DreadEye_39: 1454759844
+      DreadEye_4: 1375586468
+      DreadEye_40: -993235485
+      DreadEye_41: 1895599229
+      DreadEye_42: 630799827
+      DreadEye_43: 1571018417
+      DreadEye_44: 1049676909
+      DreadEye_45: -1100167853
+      DreadEye_46: -435717917
+      DreadEye_47: -425247958
+      DreadEye_48: -1966961330
+      DreadEye_49: -1209723127
+      DreadEye_5: -1957371792
+      DreadEye_50: -1809043435
+      DreadEye_51: 861535416
+      DreadEye_52: 2140751068
+      DreadEye_53: 577286200
+      DreadEye_54: 319465401
+      DreadEye_55: 130196977
+      DreadEye_56: 986428124
+      DreadEye_57: -487053349
+      DreadEye_58: 624131198
+      DreadEye_59: 1503666392
+      DreadEye_6: 1243899120
+      DreadEye_60: 1411265582
+      DreadEye_61: 256109427
+      DreadEye_62: -1759587645
+      DreadEye_63: 1018379456
+      DreadEye_7: 842049885
+      DreadEye_8: -1088157196
+      DreadEye_9: -638407052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
